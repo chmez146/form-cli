@@ -1,0 +1,33 @@
+.form {
+    background-color: #CD5C5C;
+    }
+.form_action {
+background-color: #B22222;
+width: 50%;
+margin: 1% 25%;
+border: 3px solid #8B0000;
+border-top-right-radius:5px;
+border-top-left-radius:5px;
+border-bottom-right-radius:5px;
+border-bottom-left-radius:5px;
+line-height: 30px;
+
+    }
+    .form_action label {
+        float: left;
+        margin: 0% 10%;
+        color: #FFFFFF;
+    }
+    .form_action input {
+        float: right;
+        margin: 0% 10%;
+    }
+    .form_button {
+        width: 50%;
+        margin: 1% 25%;
+        background-color: #B22222;
+        border: 3px solid #8B0000;
+        -moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        border-radius: 8px;
+    }
